@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://instagram.com/daksh_verma_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=dakshverma-dev&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+  
 </div>
 
 <br />
