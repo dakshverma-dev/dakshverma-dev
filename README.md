@@ -1,100 +1,148 @@
-<h1 align="left">Hey, I'm Daksh 👋</h1>
-<h3 align="left">Building AI products from Jind, India · IIT Madras '28</h3>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Daksh%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20Products%20from%20India&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%" />
+</div>
 
-###
+<!-- Intro -->
+<div align="center">
+  <a href="https://linkedin.com/in/daksh--verma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:dakshverma675@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://dakshverma-portfolio.vercedo.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://instagram.com/daksh_verma_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=dakshverma-dev&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<br />
+
+<!-- About -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshverma-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+### 👋 Hey, I'm Daksh
+
+19 · IIT Madras BS '28 · Based in Jind, India
+
+I build AI products and ship fast.
+
+- 🏗 **Co-founder** @ [Apotsa](https://github.com/adminApotsa/Apotsa) — spend management for Indian SMBs
+- 🤖 **Founder** @ Vercedo — AI voice agents for business automation
+- ⚡ 20+ production websites shipped since 2023
+- 🏆 2x Hackathon Winner · IIT Delhi · GDG Vertex AI
+
+```typescript
+const daksh = {
+  focus:    ["AI Products", "Full-Stack", "0→1 Building"],
+  stack:    ["TypeScript", "React", "Next.js", "Python", "Node.js"],
+  current:  "Building Apotsa investor demo — 10 day sprint",
+  contact:  "dakshverma675@gmail.com"
+}
+```
+
+<br clear="both" />
+
+---
+
+<!-- Tech Stack -->
+## 🛠 Tech Stack
+
+<div align="left">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+**AI / Infra**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+<!-- Startups -->
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Apotsa</h3>
+      <p>Spend management platform + virtual corporate cards for Indian SMBs.</p>
+      <p><strong>Problem:</strong> 60M+ Indian SMBs managing expenses on WhatsApp and Excel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stage-Investor%20Demo-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node-3178C6?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙 Vercedo</h3>
+      <p>AI voice agents for business automation.</p>
+      <p><strong>Use cases:</strong> Receptionist automation, sales calls, real estate lead qualification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stage-MVP%20in%20Progress-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20LangChain-3776AB?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Achievements -->
+## 🏆 Highlights
+
+<table>
+  <tr>
+    <td>🥉</td>
+    <td><strong>3rd Place — Innov8 3.0 @ IIT Delhi</strong></td>
+    <td>Built AI Detective in 24 hours</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><strong>Winner — GDG Vertex AI Hackathon</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>📦</td>
+    <td><strong>20+ production websites shipped</strong></td>
+    <td>Real clients, real money, since age 17</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><strong>COVID-19 prediction model</strong></td>
+    <td>94% accuracy using Prophet</td>
+  </tr>
+</table>
+
+---
+
+<!-- Activity -->
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshverma-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshverma-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshverma-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true" width="100%" />
 </div>
 
-###
+---
 
-<div align="left">
-
-### 🚀 What I'm Building
-
-**[Apotsa](https://github.com/adminApotsa/Apotsa)** — Spend management + virtual corporate cards for Indian SMBs. Solving the manual expense chaos for 60M+ businesses.
-
-**[Vercedo](https://dakshverma-portfolio.vercedo.com)** — AI voice agents for business automation. Receptionist, sales calls, real estate lead qualification.
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
 </div>
-
-###
-
-<div align="left">
-
-### 🛠 Tech Stack
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-
-</div>
-
-###
-
-<div align="left">
-
-### 🏆 Highlights
-
-- 🥉 **3rd Place** — Innov8 3.0 Hackathon @ IIT Delhi · Built AI Detective in 24 hours
-- 🏆 **Winner** — GDG Vertex AI Hackathon
-- 📦 **20+ production websites** shipped for real clients across India
-- 🎓 **IIT Madras BS** Data Science · **Harvard CS50x** in progress
-- 🏛 **Student Executive Council** — Building student affairs platform for 25,000+ students
-
-</div>
-
-###
-
-<div align="left">
-
-### 📊 Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakshverma-dev&theme=github_dark)
-
-</div>
-
-###
-
-<div align="left">
-
-### 🔗 Connect
-
-<a href="https://linkedin.com/in/daksh--verma" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin" />
-</a>
-<a href="mailto:dakshverma675@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail" />
-</a>
-<a href="https://dakshverma-portfolio.vercedo.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="portfolio" />
-</a>
-<a href="https://instagram.com/daksh_verma_dev" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram" />
-</a>
-
-</div>
-
-###
-
-<br clear="both">
-
-![](https://komarev.com/ghpvc/?username=dakshverma-dev&color=blueviolet&style=flat&label=Profile+Views)
