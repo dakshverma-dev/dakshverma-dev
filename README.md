@@ -23,11 +23,11 @@
 
 ### 👋 Hey, I'm Daksh
 
-19 · IIT Madras BS '28 · Based in Jind, India
+19 · IIT Madras BS '28 · Based in Delhi, India
 
 I build AI products and ship fast.
 
-- 🏗 **Co-founder** @ [Apotsa](https://github.com/adminApotsa/Apotsa) — spend management for Indian SMBs
+- 🏗 **Co-founder** @ Apotsa — spend management for Indian SMBs
 - 🤖 **Founder** @ Vercedo — AI voice agents for business automation
 - ⚡ 20+ production websites shipped since 2023
 - 🏆 2x Hackathon Winner · IIT Delhi · GDG Vertex AI
@@ -36,7 +36,6 @@ I build AI products and ship fast.
 const daksh = {
   focus:    ["AI Products", "Full-Stack", "0→1 Building"],
   stack:    ["TypeScript", "React", "Next.js", "Python", "Node.js"],
-  current:  "Building Apotsa investor demo — 10 day sprint",
   contact:  "dakshverma675@gmail.com"
 }
 ```
@@ -77,33 +76,6 @@ const daksh = {
 
 ---
 
-<!-- Startups -->
-## 🚀 What I'm Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 Apotsa</h3>
-      <p>Spend management platform + virtual corporate cards for Indian SMBs.</p>
-      <p><strong>Problem:</strong> 60M+ Indian SMBs managing expenses on WhatsApp and Excel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stage-Investor%20Demo-6366f1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node-3178C6?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙 Vercedo</h3>
-      <p>AI voice agents for business automation.</p>
-      <p><strong>Use cases:</strong> Receptionist automation, sales calls, real estate lead qualification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Stage-MVP%20in%20Progress-f59e0b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20LangChain-3776AB?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <!-- Achievements -->
 ## 🏆 Highlights
@@ -112,12 +84,12 @@ const daksh = {
   <tr>
     <td>🥉</td>
     <td><strong>3rd Place — Innov8 3.0 @ IIT Delhi</strong></td>
-    <td>Built AI Detective in 24 hours</td>
+    <td>Built AI Interviewer in 36 hours</td>
   </tr>
   <tr>
     <td>🏆</td>
     <td><strong>Winner — GDG Vertex AI Hackathon</strong></td>
-    <td></td>
+    <td>Smart OPD Queue Management System</td>
   </tr>
   <tr>
     <td>📦</td>
@@ -132,6 +104,7 @@ const daksh = {
 </table>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=dakshverma-dev&theme=dark)](https://git.io/streak-stats)
 
 <!-- Activity -->
 ## 📈 Contribution Activity
