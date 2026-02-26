@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Daksh%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20Products%20from%20India&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Daksh%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20Products%20&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%" />
 </div>
 
 <!-- Intro -->
@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://dakshverma-portfolio.vercedo.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;
-  <a href="https://instagram.com/daksh_verma_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/dakshverma_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br /><br />
   
 </div>
