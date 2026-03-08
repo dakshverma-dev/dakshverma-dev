@@ -30,7 +30,7 @@ I build AI products and ship fast.
 - 🏗 **Co-founder** @ Apotsa — spend management for Indian SMBs
 - 🤖 **Founder** @ Vercedo — AI voice agents for business automation
 - ⚡ 20+ production websites shipped since 2023
-- 🏆 2x Hackathon Winner · IIT Delhi · GDG Vertex AI
+- 🏆 3x Hackathon Winner · IIT Delhi · Google Developer Groups Vertex AI
 
 ```typescript
 const daksh = {
