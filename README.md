@@ -5,7 +5,7 @@
 <h3>0→1 Product Builder · AI-Native</h3>
 
 <p>
-  <em>I turn rough ideas into working products fast — using AI as a force multiplier, not a crutch.</em>
+  <em>I turn rough ideas into working products fast - using AI as a force multiplier, not a crutch.</em>
 </p>
 
 <a href="https://linkedin.com/in/daksh--verma">
@@ -24,11 +24,11 @@
 
 ### About Me
 
-I'm 19, currently doing my BS in Data Science & Applications at **IIT Madras**. I'm not a deep systems engineer and I'm not a researcher — I'm a **builder**. Give me a fuzzy problem and a tight deadline, and I'll ship a working AI product around it, leaning hard on AI tools to move faster than the timeline should allow.
+I'm 19, currently doing my BS in Data Science & Applications at **IIT Madras**. I'm not a deep systems engineer and I'm not a researcher - I'm a **builder**. Give me a fuzzy problem and a tight deadline, and I'll ship a working AI product around it, leaning hard on AI tools to move faster than the timeline should allow.
 
 That approach has placed **top-3 at three national-level hackathons** and **top 12 nationally in a Govt. of India civic-tech program** — all within the last several months.
 
-- 🏗️ **Currently building:** Apotsa — spend management & virtual cards for Indian SMBs
+- 🏗️ **Currently building:** Apotsa - spend management & virtual cards for Indian SMBs
 - 🌱 **Currently learning:** DBMS, Machine Learning Foundations (IIT Madras Diploma coursework)
 - 🎯 **Working on next:** closing the gap between "ships fast with AI" and "understands the system underneath"
 
@@ -64,7 +64,7 @@ That approach has placed **top-3 at three national-level hackathons** and **top 
 - **[IntervAI](https://github.com/dakshverma-dev/IntervAI)** — real-time AI candidate interviewer. 3rd place, Eightfold.ai.
 - **[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)** — multi-agent deception/deduction system. 3rd place, Eightfold.ai.
 - **[CareSRE](https://github.com/dakshverma-dev/CareSRE)** — AI-powered OPD queue management for hospitals. 3rd place, GDG Vertex AI.
-- **Apotsa** *(in progress)* — spend management + virtual corporate cards for Indian SMBs, a 60M-business problem.
+- **Apotsa** *(in progress)* - spend management + virtual corporate cards for Indian SMBs, a 60M-business problem.
 
 ---
 
