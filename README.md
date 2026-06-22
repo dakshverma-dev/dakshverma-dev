@@ -1,96 +1,70 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ whoami                                        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-**19. IIT Madras BS '28. Delhi.**  
-I build AI products and ship before most people finish their PRDs.
+# Hi, I'm Daksh! 👋
 
-Not a researcher. Not a 10x engineer.  
-A builder — give me a problem and 36 hours, I'll give you something that works.
+<h3>0→1 Product Builder · AI-Native</h3>
 
----
+<p>
+  <em>I turn rough ideas into working products fast — using AI as a force multiplier, not a crutch.</em>
+</p>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ cat /logs/wins.txt                            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<a href="https://linkedin.com/in/daksh--verma">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:dakshverma675@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+<a href="https://instagram.com/dakshverma_dev">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+</a>
 
-```
-[2026] TOP 12 · India Innovates 2026 (Govt. of India) ......... active → Round 2
-[2026] 3rd Place · Eightfold.ai Agentic Among Us @ IIT Delhi .. Multi-agent system
-[2025] 3rd Place · Eightfold.ai Innov8 3.0 @ IIT Delhi ........ AI Interviewer
-[2025] 3rd Place · GDG Vertex AI Hackathon .................... CareSRE (OPD AI)
-[2023–] 20+ production websites shipped ........................ real clients, real money
-```
+</div>
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ cat /etc/stack.conf                           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### About Me
 
-```yaml
-frontend:   [TypeScript, React, Next.js, TailwindCSS]
-backend:    [Node.js, FastAPI, Python]
-database:   [PostgreSQL, Supabase]
-ai_layer:   [LangChain, OpenAI API, Anthropic API]
-deploy:     [Vercel]
-```
+I'm 19, currently doing my BS in Data Science & Applications at **IIT Madras**. I'm not a deep systems engineer and I'm not a researcher — I'm a **builder**. Give me a fuzzy problem and a tight deadline, and I'll ship a working AI product around it, leaning hard on AI tools to move faster than the timeline should allow.
+
+That approach has placed **top-3 at three national-level hackathons** and **top 12 nationally in a Govt. of India civic-tech program** — all within the last several months.
+
+- 🏗️ **Currently building:** Apotsa — spend management & virtual cards for Indian SMBs
+- 🌱 **Currently learning:** DBMS, Machine Learning Foundations (IIT Madras Diploma coursework)
+- 🎯 **Working on next:** closing the gap between "ships fast with AI" and "understands the system underneath"
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ ls -la /builds/                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 🏆 Hackathon Track Record
 
-**[IntervAI](https://github.com/dakshverma-dev/IntervAI)**  
-AI interviewer that evaluates candidates in real-time. Built in 36 hrs. Won 3rd at IIT Delhi.
-
-**[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)**  
-Multi-agent deception/deduction system. 3rd place, Eightfold.ai @ IIT Delhi.
-
-**[CareSRE](https://github.com/dakshverma-dev/CareSRE)**  
-AI-powered OPD queue management for hospitals. Cuts wait time chaos. GDG Vertex AI winner.
-
-**[Apotsa](https://apotsa.com)** *(in progress)*  
-Spend management + virtual corporate cards for Indian SMBs. Solving a 60M-business problem.
+| Result | Event | Project |
+|:---:|:---|:---|
+| Top 12 (Round 2) | India Innovates 2026 — Govt. of India | Civic tech |
+| 🥉 3rd Place | Eightfold.ai Agentic Among Us, IIT Delhi | Multi-agent system |
+| 🥉 3rd Place | Eightfold.ai Innov8 3.0, IIT Delhi | IntervAI |
+| 🥉 3rd Place | GDG Vertex AI Hackathon | CareSRE |
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ uptime                                        ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 🛠 Tech Stack
 
-```
-Currently:  Product Engineering Intern @ Romeo & Juliet
-            Google Gemini Student Ambassador · GSAP 2026
-            Full-Stack Dev · IIT Madras Student Executive Council
-Building:   Apotsa (SMB spend management)
-Studying:   IIT Madras BS Data Science & Applications
-```
+<div align="center">
+
+| **Frontend** | **Backend** | **Database** | **AI Layer** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python" /> | <img src="https://skillicons.dev/icons?i=postgres,supabase" /> | <img src="https://skillicons.dev/icons?i=python" /> |
+
+</div>
+
+**AI tools in active use:** LangChain · Groq API · OpenAI API · Anthropic API
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  daksh@verma:~$ ping daksh                                    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 📂 Featured Builds
 
-```
-→  dakshverma675@gmail.com
-→  linkedin.com/in/daksh--verma
-→  instagram: @dakshverma_dev
-```
+- **[IntervAI](https://github.com/dakshverma-dev/IntervAI)** — real-time AI candidate interviewer. 3rd place, Eightfold.ai.
+- **[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)** — multi-agent deception/deduction system. 3rd place, Eightfold.ai.
+- **[CareSRE](https://github.com/dakshverma-dev/CareSRE)** — AI-powered OPD queue management for hospitals. 3rd place, GDG Vertex AI.
+- **Apotsa** *(in progress)* — spend management + virtual corporate cards for Indian SMBs, a 60M-business problem.
 
 ---
 
@@ -100,6 +74,10 @@ Studying:   IIT Madras BS Data Science & Applications
 
 </div>
 
----
+<div align="center">
+  <sub><em>The streak is consistency. The hackathons are proof. Both matter.</em></sub>
+</div>
 
-<sub>← that streak is the real résumé</sub>
+<!---
+dakshverma-dev/dakshverma-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
