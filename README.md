@@ -24,7 +24,7 @@ Most of what I've built sits in the gap between "technically impressive" and "so
 
 I'm the technical owner of a live consumer product right now, the kind of work where the code, the users, and the judgment calls are all mine to get right. Before that: national hackathon wins, and production software used by 47,000+ students at IIT Madras.
 
-- **Studying:** DBMS and Machine Learning Foundations, IIT Madras Diploma coursework.
+- **Studying:** Data Science, IIT Madras.
 - **Working on:** closing the gap between shipping fast and understanding the system underneath.
 - **Writing about:** AI, product, and the reasoning behind building things people trust. ([dakshverma.dev](https://dakshverma.dev))
 
