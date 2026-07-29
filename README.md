@@ -1,83 +1,68 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-ink.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-paper.svg">
+    <img src="./assets/header-paper.svg" alt="Daksh Verma, product engineer" width="100%">
+  </picture>
+</div>
 
-# Hi, I'm Daksh! 👋
-
-<h3>0→1 Product Builder · AI-Native</h3>
-
-<p>
-  <em>I turn rough ideas into working products fast - using AI as a force multiplier, not a crutch.</em>
-</p>
+<div align="center">
 
 <a href="https://linkedin.com/in/daksh--verma">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0E3B36?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/dakshverma-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-141310?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:dakshverma675@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-B9832C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://instagram.com/dakshverma_dev">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-556B4F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </div>
 
 ---
 
-### About Me
+### About
 
-I'm 19, currently doing my BS in Data Science & Applications at **IIT Madras**. I'm not a deep systems engineer and I'm not a researcher - I'm a **builder**. Give me a fuzzy problem and a tight deadline, and I'll ship a working AI product around it, leaning hard on AI tools to move faster than the timeline should allow.
+Most of what I've built sits in the gap between "technically impressive" and "someone actually wants this." I've been on both sides of that gap enough times to trust the second one more.
 
-That approach has placed **top-3 at three national-level hackathons** and **top 12 nationally in a Govt. of India civic-tech program** — all within the last several months.
+I'm the technical owner of a live consumer product right now, the kind of work where the code, the users, and the judgment calls are all mine to get right. Before that: national hackathon wins, and production software used by 47,000+ students at IIT Madras.
 
-- 🏗️ **Currently building:** Apotsa - spend management & virtual cards for Indian SMBs
-- 🌱 **Currently learning:** DBMS, Machine Learning Foundations (IIT Madras Diploma coursework)
-- 🎯 **Working on next:** closing the gap between "ships fast with AI" and "understands the system underneath"
+- **Studying:** DBMS and Machine Learning Foundations, IIT Madras Diploma coursework.
+- **Working on:** closing the gap between shipping fast and understanding the system underneath.
+- **Writing about:** AI, product, and the reasoning behind building things people trust. ([dakshverma.dev](https://dakshverma.dev))
 
 ---
 
-### 🏆 Hackathon Track Record
+### Hackathon record
 
 | Result | Event | Project |
-|:---:|:---|:---|
-| Top 12 (Round 2) | India Innovates 2026 — Govt. of India | Civic tech |
-| 🥉 3rd Place | Eightfold.ai Agentic Among Us, IIT Delhi | Multi-agent system |
-| 🥉 3rd Place | Eightfold.ai Innov8 3.0, IIT Delhi | IntervAI |
-| 🥉 3rd Place | GDG Vertex AI Hackathon | CareSRE |
+|:---|:---|:---|
+| 1st Place | GDG Vertex AI Hackathon | CareSRE |
+| 2nd Runner-Up | Innov8 3.0, IIT Delhi | IntervAI |
+| 2nd Runner-Up | Agentic Among Us (Eightfold AI x IIT Delhi) | Multi-agent system |
+| Top 12 of 250,000+ | India's largest civic-tech hackathon | Civic tech |
 
 ---
 
-### 🛠 Tech Stack
+### Stack
 
-<div align="center">
-
-| **Frontend** | **Backend** | **Database** | **AI Layer** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python" /> | <img src="https://skillicons.dev/icons?i=postgres,supabase" /> | <img src="https://skillicons.dev/icons?i=python" /> |
-
-</div>
-
-**AI tools in active use:** LangChain · Groq API · OpenAI API · Anthropic API
+Next.js, TypeScript, Tailwind, Node.js, Python, PostgreSQL, Supabase. Working with multi-LLM systems day to day: Anthropic, OpenAI, Groq, OpenRouter for routing, and ElevenLabs for voice.
 
 ---
 
-### 📂 Featured Builds
+### Selected builds
 
-- **[IntervAI](https://github.com/dakshverma-dev/IntervAI)** — real-time AI candidate interviewer. 3rd place, Eightfold.ai.
-- **[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)** — multi-agent deception/deduction system. 3rd place, Eightfold.ai.
-- **[CareSRE](https://github.com/dakshverma-dev/CareSRE)** — AI-powered OPD queue management for hospitals. 3rd place, GDG Vertex AI.
-- **Apotsa** *(in progress)* - spend management + virtual corporate cards for Indian SMBs, a 60M-business problem.
+- **[CareSRE](https://github.com/dakshverma-dev/CareSRE)**: AI-powered outpatient queue management for government hospitals. 1st place at the GDG Vertex AI Hackathon, out of roughly 2,400 teams. Won by keeping the build simple and spending the time on whether a hospital would actually use it.
+- **[IntervAI](https://github.com/dakshverma-dev/IntervAI)**: real-time AI candidate interviewer. 2nd Runner-Up, Innov8 3.0 at IIT Delhi.
+- **[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)**: a multi-agent deception and deduction system. 2nd Runner-Up, Agentic Among Us.
+- **ConsentChain**: tamper-proof, auditable consent records on Algorand, built around India's DPDP Act.
 
 ---
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dakshverma-dev&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
+<sub><em>The game everyone's playing and the game you're actually scored on are often two different things. The trick is spotting the gap.</em></sub>
 </div>
-
-<div align="center">
-  <sub><em>The streak is consistency. The hackathons are proof. Both matter.</em></sub>
-</div>
-
-<!---
-dakshverma-dev/dakshverma-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->

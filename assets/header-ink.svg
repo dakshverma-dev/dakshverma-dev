@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Daksh Verma, product engineer">
+  <rect width="1280" height="320" fill="#141310"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" fill="none" stroke="#2C2A24" stroke-width="1"/>
+  <line x1="80" y1="58" x2="1200" y2="58" stroke="#2C2A24" stroke-width="1"/>
+  <text x="80" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2.4" fill="#A8B5AF">DELHI, INDIA</text>
+  <text x="640" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2.4" fill="#A8B5AF">PRODUCT ENGINEER</text>
+  <text x="1200" y="46" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2.4" fill="#A8B5AF">IIT MADRAS &#8217;28</text>
+  <text x="640" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="82" fill="#FBFAF4">Daksh Verma</text>
+  <g stroke="#FBFAF4" fill="none" stroke-linecap="round" opacity="0.5">
+    <path d="M470 214 Q484 194 498 214 T526 214" stroke-width="1.6"/>
+    <path d="M526 214 Q540 236 554 214 T582 214" stroke-width="1.6"/>
+    <path d="M582 214 Q596 198 610 214" stroke-width="1.6"/>
+    <circle cx="624" cy="214" r="4.5" stroke-width="1.3"/>
+    <path d="M634 214 Q662 200 690 214" stroke-width="1.1" stroke-dasharray="1 6"/>
+    <circle cx="700" cy="214" r="4.5" stroke-width="1.3"/>
+    <path d="M710 214 Q724 232 738 214 T766 214" stroke-width="1.6"/>
+    <path d="M766 214 Q780 196 794 214" stroke-width="1.6"/>
+  </g>
+  <text x="640" y="264" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#A8B5AF">I build things I&#8217;d actually want to use.</text>
+  <text x="1200" y="298" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#C9A15B">BUILD &#183; 001</text>
+  <text x="80" y="298" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#C9A15B">DAKSHVERMA.DEV</text>
+</svg>
