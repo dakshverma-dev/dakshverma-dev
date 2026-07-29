@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-ink.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-paper.svg">
-    <img src="./assets/header-paper.svg" alt="Daksh Verma, product engineer" width="100%">
-  </picture>
+  <img src="./assets/header-paper.svg" alt="Daksh Verma, product engineer" width="100%">
 </div>
 
 <div align="center">
