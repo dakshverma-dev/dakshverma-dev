@@ -3,23 +3,20 @@
 </div>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/daksh--verma">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0E3B36?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/dakshverma-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-141310?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:dakshverma675@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-B9832C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://instagram.com/dakshverma_dev">
-  <img src="https://img.shields.io/badge/Instagram-Follow-556B4F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
+  <a href="https://linkedin.com/in/daksh--verma">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0E3B36?style=for-the-badge&logo=linkedin&logoColor=0E3B36&labelColor=FBFAF4" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dakshverma-dev">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0E3B36?style=for-the-badge&logo=github&logoColor=0E3B36&labelColor=FBFAF4" alt="GitHub" />
+  </a>
+  <a href="url?id=22">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0E3B36?style=for-the-badge&logo=gmail&logoColor=0E3B36&labelColor=FBFAF4" alt="Email" />
+  </a>
+  <a href="https://instagram.com/dakshverma_dev">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0E3B36?style=for-the-badge&logo=instagram&logoColor=0E3B36&labelColor=FBFAF4" alt="Instagram" />
+  </a>
 </div>
 
----
 
 ### About
 
