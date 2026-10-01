@@ -1,5 +1,7 @@
+
 <div align="center">
-  <img src="./assets/header-paper.svg" alt="Daksh Verma, product engineer" width="100%">
+  <img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/ff0be026-f953-4927-863f-c071ebab8375" />
+
 </div>
 
 <div align="center">
