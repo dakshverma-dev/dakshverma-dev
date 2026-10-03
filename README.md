@@ -41,6 +41,7 @@ I'm the technical owner of a live consumer product right now, the kind of work w
 | 1st Place | GDG Vertex AI Hackathon | CareSRE |
 | 2nd Runner-Up | Innov8 3.0, IIT Delhi | IntervAI |
 | 2nd Runner-Up | Agentic Among Us (Eightfold AI x IIT Delhi) | Multi-agent system |
+| 2nd Runner-Up | Eightfold AI - Innov8 4.0, IIT Delhi | Nightingale |
 | Top 12 of 250,000+ | India's largest civic-tech hackathon | Civic tech |
 
 ---
