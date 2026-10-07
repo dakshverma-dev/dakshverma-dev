@@ -5,7 +5,7 @@
 </picture>
 
 <p>
-  <a href="https://dakshverma.dev">Portfolio & writing</a> &nbsp; / &nbsp;
+  <a href="https://dev.to/daksh_verma/">Writing</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/daksh--verma/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:dakshverma675@gmail.com">Email me</a>
 </p>
@@ -34,7 +34,7 @@ I've worked on student-facing software for the IIT Madras community and currentl
 
 ### On my workbench
 
-[**voxpen**](https://github.com/dakshverma-dev/wispr-alternate) — an early local voice-to-prompt tool exploring offline transcription and guarded prompt refinement. I also write about AI, product decisions, and building software on [dakshverma.dev](https://dakshverma.dev).
+[**voxpen**](https://github.com/dakshverma-dev/wispr-alternate) — an early local voice-to-prompt tool exploring offline transcription and guarded prompt refinement. I write about [voice AI latency](https://dev.to/daksh_verma/why-waiting-longer-makes-voice-ai-worse-1g2a) and the product decisions behind building useful software.
 
 **Tools I reach for:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, and Supabase. For AI work: model APIs, OpenRouter, voice interfaces, and local inference.
 
