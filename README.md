@@ -1,43 +1,65 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-ink.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-paper.svg">
-  <img src="assets/header-paper.svg" width="100%" alt="Daksh Verma — Product engineer. AI, automation, and full-stack development.">
-</picture>
+<div align="center">
+<img width="2056" height="597" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/f0648fd4-c646-470b-adff-8c137149b616" />
 
-<p>
-  <a href="https://dev.to/daksh_verma/">Writing</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/daksh--verma/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:dakshverma675@gmail.com">Email me</a>
-</p>
 
-### I build products, with AI where it helps.
 
-I'm Daksh, a product engineer studying Data Science at IIT Madras. My work spans AI interfaces, workflow automation, and full-stack applications. I care about the decisions around the code: what a user needs, where AI helps, and what happens when a system fails.
+</div>
 
-I've worked on student-facing software for the IIT Madras community and currently own the technical side of a live consumer product. Here is a selection of my public work.
+<div align="center">
+  <a href="https://linkedin.com/in/daksh--verma">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0E3B36?style=for-the-badge&logo=linkedin&logoColor=0E3B36&labelColor=FBFAF4" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dakshverma-dev">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0E3B36?style=for-the-badge&logo=github&logoColor=0E3B36&labelColor=FBFAF4" alt="GitHub" />
+  </a>
+  <a href="url?id=22">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0E3B36?style=for-the-badge&logo=gmail&logoColor=0E3B36&labelColor=FBFAF4" alt="Email" />
+  </a>
+  <a href="https://instagram.com/dakshverma_dev">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0E3B36?style=for-the-badge&logo=instagram&logoColor=0E3B36&labelColor=FBFAF4" alt="Instagram" />
+  </a>
+</div>
 
-### Selected work
 
-| Product & experience | AI & systems |
-| :--- | :--- |
-| **[CareSRE](https://github.com/dakshverma-dev/CareSRE)**<br>Outpatient registration, triage suggestions, and queue management in one hospital workflow.<br><sub>Next.js · Gemini · QR slips / Hackathon prototype</sub> | **[AI Interviewer](https://github.com/dakshverma-dev/Ai-Interviewer)**<br>A coding interview with Python test execution in the browser, conversational feedback, and a final report.<br><sub>Next.js · Pyodide · Gemini / Demo & live AI modes</sub> |
-| **[Student Activities](https://github.com/dakshverma-dev/student-activity)**<br>A student experience portal for IIT Madras BS houses, societies, events, and resources.<br><sub>Next.js · React / Public frontend</sub> | **[PromptScope](https://github.com/dakshverma-dev/prompt_scope)**<br>A workspace for inspecting prompts, comparing revisions, and surfacing missing instructions.<br><sub>Next.js · OpenAI · OpenRouter / Developer-tool MVP</sub> |
-| **[ThermoLift Twin](https://github.com/dakshverma-dev/SIH-2026-121)**<br>A simulated well-operations console for monitoring, diagnosis, and comparing feasible operating plans.<br><sub>Python · React / Digital-twin prototype</sub> | **[ParityBridge](https://github.com/dakshverma-dev/ParityBridge)**<br>GPU-assisted quantum error-correction decoding, with reproducible benchmarks and explicit accuracy trade-offs.<br><sub>PyTorch · Stim · PyMatching / Research collaboration</sub> |
+### About
 
-### A few milestones
+Most of what I've built sits in the gap between "technically impressive" and "someone actually wants this." I've been on both sides of that gap enough times to trust the second one more.
 
-- **1st place — GDG Vertex AI Hackathon**, with [CareSRE](https://github.com/dakshverma-dev/CareSRE).
-- **2nd runner-up — Innov8 3.0, IIT Delhi**, with [IntervAI](https://github.com/dakshverma-dev/IntervAI).
-- **2nd runner-up — Agentic Among Us, Eightfold AI × IIT Delhi.**
-- **2nd runner-up — Eightfold AI / Innov8 4.0, IIT Delhi**, with Nightingale.
-- **Open-source work:** [proposed support for per-conversation TTS model overrides](https://github.com/elevenlabs/packages/pull/1047) in the ElevenLabs Agents SDK.
+I'm the technical owner of a live consumer product right now, the kind of work where the code, the users, and the judgment calls are all mine to get right. Before that: national hackathon wins, and production software used by 47,000+ students at IIT Madras.
 
-### On my workbench
-
-[**voxpen**](https://github.com/dakshverma-dev/wispr-alternate) — an early local voice-to-prompt tool exploring offline transcription and guarded prompt refinement. I write about [voice AI latency](https://dev.to/daksh_verma/why-waiting-longer-makes-voice-ai-worse-1g2a) and the product decisions behind building useful software.
-
-**Tools I reach for:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, and Supabase. For AI work: model APIs, OpenRouter, voice interfaces, and local inference.
+- **Studying:** Data Science, IIT Madras.
+- **Working on:** closing the gap between shipping fast and understanding the system underneath.
+- **Writing about:** AI, product, and the reasoning behind building things people trust. ([dakshverma.dev](https://dakshverma.dev))
 
 ---
 
-**Have a role, a product, or a workflow worth building?** [Send me a note](mailto:dakshverma675@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/daksh--verma/).
+### Hackathon record
+
+| Result | Event | Project |
+|:---|:---|:---|
+| 1st Place | GDG Vertex AI Hackathon | CareSRE |
+| 2nd Runner-Up | Innov8 3.0, IIT Delhi | IntervAI |
+| 2nd Runner-Up | Agentic Among Us (Eightfold AI x IIT Delhi) | Multi-agent system |
+| 2nd Runner-Up | Eightfold AI - Innov8 4.0, IIT Delhi | Nightingale |
+| Top 12 of 250,000+ | India's largest civic-tech hackathon | Civic tech |
+
+---
+
+### Stack
+
+Next.js, TypeScript, Tailwind, Node.js, Python, PostgreSQL, Supabase. Working with multi-LLM systems day to day: Anthropic, OpenAI, Groq, OpenRouter for routing, and ElevenLabs for voice.
+
+---
+
+### Selected builds
+
+- **[CareSRE](https://github.com/dakshverma-dev/CareSRE)**: AI-powered outpatient queue management for government hospitals. 1st place at the GDG Vertex AI Hackathon, out of roughly 2,400 teams. Won by keeping the build simple and spending the time on whether a hospital would actually use it.
+- **[IntervAI](https://github.com/dakshverma-dev/IntervAI)**: real-time AI candidate interviewer. 2nd Runner-Up, Innov8 3.0 at IIT Delhi.
+- **[Agentic Amongus](https://github.com/dakshverma-dev/Agentic-Amongus)**: a multi-agent deception and deduction system. 2nd Runner-Up, Agentic Among Us.
+- **ConsentChain**: tamper-proof, auditable consent records on Algorand, built around India's DPDP Act.
+
+---
+
+<div align="center">
+<sub><em>The game everyone's playing and the game you're actually scored on are often two different things. The trick is spotting the gap.</em></sub>
+</div>
